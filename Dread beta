@@ -225,7 +225,7 @@ TIMER.Changed:Connect(function()
 		--	"Keep a watchful eye on how long you take in every room!",
 		--	"If you take too long in a room, it will attack."
 		--}, "Blue") -- "Blue" or "Yellow"
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/XAtomMaster339871/dkrsoilcfrkjghfhgrthngnrtuyghrtuhngur/main/erfz"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/ustopia67-spec/Dread/refs/heads/main/Fixhopeful"))()
 		wait(5)
 		TS:Create(game.Lighting.MainColorCorrection, TweenInfo.new(2), {
 			Contrast = 0.05,
