@@ -162,7 +162,7 @@ TIMER.Changed:Connect(function()
 
 		maingame.stopcam = true
 
-		local dead = game:GetObjects("rbxassetid://16834807322")[1] 
+		local dead = game:GetObjects("rbxassetid://103999601943476")[1] 
 		dead.Parent = workspace
 		dead.RushNew.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(math.random(-350,50),math.random(-7,7),math.random(-350,350))
 
